@@ -1,5 +1,7 @@
 <div id="pinuts_description"></div>
 
+# 移転しました
+https://github.com/pinenut-programming-language/pinenut-programming-language.github.io
 # Pinenuts
 これはネットワークがプログラムしやすい言語です。
 ## インストール
